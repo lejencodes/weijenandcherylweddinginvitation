@@ -16,9 +16,9 @@ html,body,div,span,h1,h2,p,a,button,img,dl,dt,dd,ul,li,form,label,header,nav,sec
 
 .Map{width:100%;height:calc(100vw - 80px);max-height:300px;position:relative;margin-top:20px}.Map iframe{border:0;position:absolute;top:0;right:0;bottom:0;left:0;margin:auto}
 
-.icon-label-gap{margin-left:8px}
+.icon-label-gap{margin-left:8px;margin-right:8px}.icon-gap{margin-top:5px}
 
-.icon-label-gap{margin-left:8px}
+.icon-label-gap{margin-left:8px;margin-right:8px}.icon-gap{margin-top:5px}
 
 .TimelineItem{display:flex;margin-top:10px}.TimelineItem+.TimelineItem{margin-top:40px}.TimelineItem .HelperText{color:#a72e6f;margin-left:30px}.TimelineItem_head{width:80px;text-align:right;flex-shrink:0}.TimelineItem_body{margin-left:20px}.TimelineItem_item{color:#a72e6f;padding-left:30px;background-position:left top;background-repeat:no-repeat}.TimelineItem_item+.TimelineItem_item{margin-top:20px}.TimelineItem_item.-teapot{background-image:url(05261968c64469efde44.svg);background-size:24px 24px}.TimelineItem_item.-tq{background-image:url(0037542232954097fb02.svg);background-size:24px 24px}.TimelineItem_item.-car{background-image:url(ba6125cd9e3aa59c1ced.svg);background-size:24px 24px}.TimelineItem_item.-ferry{background-image:url(76b9a7953d2e16c1dd31.svg);background-size:24px 24px}.TimelineItem_item.-bus{background-image:url(f0045595f492a08ecefe.svg);background-size:20px 20px}.TimelineItem_item.-ring{background-image:url(5532f3eca13e6cb19a71.svg);background-size:24px 24px}.TimelineItem_item.-cocktail{background-image:url(9bf4bd50f7a64960e0aa.svg);background-size:24px 24px}.TimelineItem_item.-camera{background-image:url(d4ae400ea9c0cc6a6424.svg);background-size:20px 20px}.TimelineItem_item.-dinner{background-image:url(46c8c18e13cedac1dd1a.svg);background-size:24px 24px}.TimelineItem_item.-party{background-image:url(4633ed29d84b7416ea3a.svg);background-size:24px 24px}
 
